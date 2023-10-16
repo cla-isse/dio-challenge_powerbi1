@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=PowerBI)
 
-Esta é a resolução dos desafio "Criando um Relatório de Vendas Elegante com PowerBI" e "Processando e Transformando Dados com Power BI", ambos da formação "Visualização e Análise de Dados com Power BI", na plataforma [DIO](https://web.dio.me/home).
+Esta é a resolução do desafio "Criando um Relatório de Vendas Elegante com PowerBI", o primeiro da formação "Visualização e Análise de Dados com Power BI", na plataforma [DIO](https://web.dio.me/home).
 
 Mentor: [@julianamascarenhas](https://github.com/julianazanelatto)
 
